@@ -12,11 +12,8 @@
   <img align="center" alt="Jona-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jona-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jona-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
-![Snake animation](https://github.com/jonathanluis2022/jonathanluis2022/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **jonathanluis2022/jonathanluis2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
