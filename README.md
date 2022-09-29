@@ -5,22 +5,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanluis2022&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
-
-
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **jonathanluis2022/jonathanluis2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on  vigilante e motoboy
+- 🌱 I’m currently learning  JavaScrip/typeScript
+- 🤔  não vejo a hora de  entrer em alguma empresa e o mais importante aprender cada dia mais ! 
+- 💬  migrar de carreira  completamente diferente nao é facil , mas estou gostando muito 
+- 😄  estou viciado em aprender cada dia mais,
 -->
