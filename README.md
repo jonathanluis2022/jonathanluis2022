@@ -12,7 +12,7 @@
   
 </div>
 
-<div>
+<div >
   <a href = "mailto:jonathan.luisrodrigues@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a align="right" href="https://https://www.linkedin.com/in/jonathan-luis-1018b1221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
