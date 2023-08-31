@@ -23,8 +23,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  vigilante e motoboy
-- 🌱 I’m currently learning  PHP/LARAVEL JavaScrip/typeScript
-- 🤔  não vejo a hora de  entrer em alguma empresa e o mais importante aprender cada dia mais ! 
-- 💬  migrar de carreira  completamente diferente nao é facil , mas estou gostando muito 
-- 😄  estou viciado em aprender cada dia mais,
+- 🌱 I’m currently learning  PHP/LARAVEL JavaScrip
+- 🤔  Entusiasmado com o aprendizado ! 
+- 😄  Bom estudo a todos !
 -->
