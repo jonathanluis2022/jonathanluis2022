@@ -17,6 +17,8 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <h3 align="center" alt="" height="30" width="40" src="https://github.com/jonathanluis2022/jonathanluis2022/edit/main/README.md"> Estudando/funcionalidade </h3>
+
 
 
 </div>
