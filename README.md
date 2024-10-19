@@ -17,20 +17,15 @@ Here are some ideas to get you started:
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg.">
-
 </div><br>
 
 - 🔭 I’m not currently working, but I'm actively studying.
 - 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas and improving my skills in PHP, Laravel, and JavaScript.
 - 👯 I’m looking to collaborate on open-source projects or any opportunities to apply my knowledge in real-world scenarios.
 - 🤔 I’m looking for help with gaining industry experience and growing my professional network.
-- 💬 Ask me about PHP, Laravel, MySQL, and my current projects.
 - 📫 How to reach me: jonthan.luisrodrigues@hotmail.com or [LinkedIn](https://www.linkedin.com/in/jonathan-luis-m-rodrigues-1018b1221/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm always curious to learn about the latest tech trends and enjoy solving logical problems in my free time.
-
 -->
+  
 ## Cursos e Certificações
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
