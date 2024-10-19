@@ -35,7 +35,7 @@ Descrição   | Instituição   | Ano | Tipo
 ## 🌐 Minhas Redes Sociais
   
 <div> 
-  <a href="https://https://www.instagram.com/jonathan.luis001/profilecard/?igsh=MWl6emVhZGN4cTAzYg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/jonathan.luis001/profilecard/?igsh=MWl6emVhZGN4cTAzYg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathan-luis-m-rodrigues-1018b1221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 ## ⚙️ Estatísticas GitHub
