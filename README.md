@@ -1,16 +1,51 @@
-## Hi there 👋
+## Oi, sou o Jonathan, Desenvolvedor de Software  👋
 
-<!--
-**jonathanluis2022/jonathanluis2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑🏽‍💻 Um pouquinho sobre mim:
+<div>
+  <p>
+    Sou Desenvolvedor, apaixonado por tecnologia, com experiência no desenvolvimento de plataformas 
+    Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
+    modernos e adaptáveis (Conhecimentos em: PHP MVC, LARAVEL , Bootstrap, HTML5, CSS3, JavaScript).
+  </p>
+</div>
 
 Here are some ideas to get you started:
+## 👨🏽‍💻🚀 Minhas Tecnologias  
+  
+<div style="display: inline_block">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg.">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div><br>
+
+- 🔭 I’m not currently working, but I'm actively studying.
+- 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas and improving my skills in PHP, Laravel, and JavaScript.
+- 👯 I’m looking to collaborate on open-source projects or any opportunities to apply my knowledge in real-world scenarios.
+- 🤔 I’m looking for help with gaining industry experience and growing my professional network.
+- 💬 Ask me about PHP, Laravel, MySQL, and my current projects.
+- 📫 How to reach me: jonthan.luisrodrigues@hotmail.com or [LinkedIn](https://www.linkedin.com/in/jonathan-luis-m-rodrigues-1018b1221/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm always curious to learn about the latest tech trends and enjoy solving logical problems in my free time.
+
 -->
+## Cursos e Certificações
+Descrição   | Instituição   | Ano | Tipo
+--------- | --------- | ------ | ------
+🏅 PHP Essencial | Udemy | 2022 | Certificação
+🏅 Laravel | Udemy | 2023 | Certificação
+🏅 Java Script | Udemy | 2021 | Certificação
+## 🌐 Minhas Redes Sociais
+  
+<div> 
+  <a href="https://https://www.instagram.com/jonathan.luis001/profilecard/?igsh=MWl6emVhZGN4cTAzYg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonathan-luis-m-rodrigues-1018b1221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+## ⚙️ Estatísticas GitHub
+<div align="center">
+  <a href="https://github.com/jonathanluis2022">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonathanluis2022&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanluis2022&layout=compact&langs_count=7&theme=dark"/>
+</div>
