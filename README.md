@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ## Cursos e Certificações
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
-🏅 PHP Essencial | Udemy | 2022 | Certificação
-🏅 Laravel | Udemy | 2023 | Certificação
-🏅 Java Script | Udemy | 2021 | Certificação
+🏅 Laravel11 | Udemy | 2023 | Certificação
+🏅 PHP8 Completo | Udemy | 2022 | Certificação
+🏅 JavaScript e TypeScript do básico ao avançado| Udemy | 2021 | Certificação
 ## 🌐 Minhas Redes Sociais
   
 <div> 
