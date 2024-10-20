@@ -26,6 +26,7 @@
 ## Cursos e Certificações
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
+🏅 Tecnólogo(ADS) | Anhanguera | 2023 | Cursando 3ºsemestre
 🏅 Laravel11 | Udemy | 2023 | Certificação
 🏅 PHP8 Completo | Udemy | 2022 | Certificação
 🏅 JavaScript e TypeScript do básico ao avançado| Udemy | 2021 | Certificação
