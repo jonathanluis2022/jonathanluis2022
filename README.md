@@ -5,17 +5,19 @@
   <p>
     Atualmente cursando 3ºsemestre (analise e desenvolvimento de sistemas), apaixonado por tecnologia, com experiência no desenvolvimento de plataformas 
     Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
-    modernos e adaptáveis (Conhecimentos em: PHP MVC, LARAVEL , Bootstrap, HTML5, CSS3, JavaScript).
+    modernos e adaptáveis (Conhecimentos em: HTML5, CSS3, Bootstrap, JavaScript, PHP MVC, LARAVEL).
   </p>
 </div>
 
 ## 👨🏽‍💻🚀 Minhas Tecnologias  
 <div style="display: inline_block">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div><br>
+
+
 
 - 🔭 I’m not currently working, but I'm actively studying.
 - 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas and improving my skills in PHP, Laravel, and JavaScript.
