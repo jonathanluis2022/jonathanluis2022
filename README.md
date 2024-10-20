@@ -24,7 +24,7 @@
 - 📫 How to reach me: jonthan.luisrodrigues@hotmail.com or [LinkedIn](https://www.linkedin.com/in/jonathan-luis-m-rodrigues-1018b1221/)
   
 ## Cursos e Certificações
-Descrição   | Instituição   | Ano | Tipo
+Descrição   | Instituição   | Ano | Concluidos(Done)
 --------- | --------- | ------ | ------
 🏅 Tecnólogo(ADS) | Anhanguera | 2023 | Cursando 3ºsemestre
 🏅 Laravel11 | Udemy | 2023 | Certificação
