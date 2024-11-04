@@ -3,7 +3,7 @@
 ## 🧑🏽‍💻 Um pouquinho sobre mim:
 <div>
   <p>
-    Atualmente cursando 3ºsemestre (analise e desenvolvimento de sistemas), apaixonado por tecnologia, com experiência no desenvolvimento de plataformas 
+    Atualmente cursando 4ºsemestre (analise e desenvolvimento de sistemas), apaixonado por tecnologia, com experiência no desenvolvimento de plataformas 
     Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
     modernos e adaptáveis (Conhecimentos em: HTML5, CSS3, Bootstrap, JavaScript, PHP MVC, LARAVEL).
   </p>
